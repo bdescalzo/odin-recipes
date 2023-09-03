@@ -10,7 +10,16 @@ h1, h2 {
     text-align: center;
 }
 
+h1 {
+    color: red;
+    background: rgb(118, 255, 118);
+}
+
+h2, p, li, a {
+    color: white;
+}
 .food_img {
     height: 400px;
     width: auto;
 }
+
